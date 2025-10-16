@@ -88,8 +88,8 @@ This project was developed for the Liftoff Tech Club assignment. Contributions a
 
 # Support
 
-- Developer: [SyntaxSaviour](https://github.com/SyntaxSaviour)
-- Email/Contact Info: farjanalam16@gmail.com
+- Developer: [SyntaxSaviour](https://github.com/Comical-World)
+- Email/Contact Info: vermaaryan84383@gmail.com
 
 
 # Acknowledgements
