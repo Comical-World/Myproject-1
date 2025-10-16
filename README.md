@@ -88,7 +88,7 @@ This project was developed for the Liftoff Tech Club assignment. Contributions a
 
 # Support
 
-- Developer: [SyntaxSaviour](https://github.com/Comical-World)
+- Developer: [Comical-World](https://github.com/Comical-World)
 - Email/Contact Info: vermaaryan84383@gmail.com
 
 
